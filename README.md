@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://franciscodev.cl" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Mi_Portafolio-franciscodev.cl-6366f1?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🌐_Mi_Portafolio-franciscodev.cl-6366f1?style=for-the-badge"/>
 </a>
 <a href="https://instagram.com/francisco.dev.ccp" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -97,18 +97,6 @@ const francisco = {
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eskisofrenico/Eskisofrenico/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eskisofrenico/Eskisofrenico/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Eskisofrenico/Eskisofrenico/output/github-snake.svg" />
-  </picture>
-</div>
-
----
-
 ## 💼 Servicios
 
 <div align="center">
@@ -120,31 +108,21 @@ const francisco = {
 | Sistemas de Gestión | PWAs | Workflows |
 | Plataformas SaaS | | Pasarelas de Pago |
 
-</div>
+<br/>
 
-<div align="center">
-  <a href="https://franciscodev.cl">
-    <img src="https://img.shields.io/badge/¿Tienes_un_proyecto?-Conversemos_☕-8B5CF6?style=for-the-badge"/>
-  </a>
-</div>
+### ☕ ¿Tienes un proyecto? [Conversemos](https://franciscodev.cl)
 
----
-
-## ✍️ Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple" alt="Random Dev Quote"/>
 </div>
 
 ---
-
-<div align="center">
   
 ### 💜 ¡Gracias por visitar mi perfil!
 
 <img src="https://komarev.com/ghpvc/?username=Eskisofrenico&style=for-the-badge&color=8B5CF6" alt="Profile Views"/>
 
-[![PayPal](https://img.shields.io/badge/Apóyame_en_PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/FSaldiviaMorales)
+<br/><br/>
+
+[![PayPal](https://img.shields.io/badge/Apoyame_en_PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/FSaldiviaMorales)
 
 </div>
 
