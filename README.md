@@ -18,18 +18,20 @@
 
 </div>
 
-<br/>
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+---
 
 ## 🧑‍💻 Sobre Mí
+
+<table>
+<tr>
+<td width="55%">
 
 ```javascript
 const francisco = {
   ubicación: "Concepción, Chile 📍",
   rol: "Full Stack Developer",
   empresa: "Francisco Dev",
-  estudiando: "Ingeniería en Computación - 3er año",
+  estudiando: "Ing. en Computación - 3er año",
   
   especialidades: [
     "Sistemas de agendamiento",
@@ -38,13 +40,20 @@ const francisco = {
     "Automatización de negocios"
   ],
   
-  enfoque: "Soluciones web a medida para PYMES chilenas",
+  enfoque: "Soluciones web para PYMES chilenas",
   
-  funFact: "Construyo catedrales, no solo corto piedras 🏰"
+  funFact: "Construyo catedrales 🏰"
 };
 ```
 
-<br clear="right"/>
+</td>
+<td width="45%">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -115,6 +124,10 @@ const francisco = {
 </div>
 
 ---
+
+
+
+<div align="center">
   
 ### 💜 ¡Gracias por visitar mi perfil!
 
