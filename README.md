@@ -89,27 +89,6 @@ const francisco = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Eskisofrenico&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&icon_color=6366f1&text_color=c9d1d9&bg_color=0d1117" alt="Francisco's GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Eskisofrenico&layout=compact&hide_border=true&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-</div>
-
-<div align="center">
-  <img width="90%" src="https://streak-stats.demolab.com?user=Eskisofrenico&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=06b6d4&currStreakLabel=8B5CF6" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Eskisofrenico&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
