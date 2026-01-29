@@ -12,9 +12,6 @@
 <a href="https://instagram.com/francisco.dev.ccp" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="mailto:contacto@franciscodev.cl" target="_blank">
-  <img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 </div>
 
